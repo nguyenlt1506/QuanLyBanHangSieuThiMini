@@ -1,0 +1,71 @@
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\bin\Debug\QuanLyBanHangSieuThiMini.exe.config
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\bin\Debug\QuanLyBanHangSieuThiMini.exe
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\bin\Debug\QuanLyBanHangSieuThiMini.pdb
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.csprojResolveAssemblyReference.cache
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.frmLogin.resources
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmMain.resources
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Properties.Resources.resources
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.csproj.GenerateResource.Cache
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.exe
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.pdb
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.frmNhapHang.resources
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmHangHoa.resources
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmBanHang.resources
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmHoaDonBan.resources
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmHoaDonNhap.resources
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmNhanVien.resources
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmTaiKhoan.resources
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.Hàng_hóa.frmSuaHangHoa.resources
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.Hàng_hóa.frmSuaLoaiHang.resources
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.Hàng_hóa.frmThemHangHoa.resources
+E:\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.Hàng_hóa.frmThemLoaiHang.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\bin\Debug\QuanLyBanHangSieuThiMini.exe.config
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.exe
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.pdb
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\bin\Debug\QuanLyBanHangSieuThiMini.exe
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\bin\Debug\QuanLyBanHangSieuThiMini.pdb
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.csprojResolveAssemblyReference.cache
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmBanHang.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmHangHoa.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.Hàng_hóa.frmSuaHangHoa.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.Hàng_hóa.frmSuaLoaiHang.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.Hàng_hóa.frmThemHangHoa.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.Hàng_hóa.frmThemLoaiHang.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmHoaDonBan.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmHoaDonNhap.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.frmLogin.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmMain.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmNhanVien.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.frmNhapHang.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Properties.Resources.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.csproj.GenerateResource.Cache
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.ThongKe.frmThongKe.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.HangHoa.frmHangHong.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.NhaCungCap.frmNhaCungCap.resources
+E:\Nhập môn CNPM\Quản lý bán hàng siêu thị mini\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.HangHoa.frmGiamGia.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\bin\Debug\QuanLyBanHangSieuThiMini.exe.config
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.exe
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.pdb
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\bin\Debug\QuanLyBanHangSieuThiMini.exe
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\bin\Debug\QuanLyBanHangSieuThiMini.pdb
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.csprojResolveAssemblyReference.cache
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmBanHang.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.HangHoa.frmGiamGia.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmHangHoa.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.HangHoa.frmHangHong.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.Hàng_hóa.frmSuaHangHoa.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.Hàng_hóa.frmSuaLoaiHang.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.Hàng_hóa.frmThemHangHoa.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.Hàng_hóa.frmThemLoaiHang.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmHoaDonBan.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmHoaDonNhap.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.frmLogin.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmMain.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.NhaCungCap.frmNhaCungCap.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.frmNhanVien.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.frmNhapHang.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.ThongKe.frmThongKe.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Properties.Resources.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.csproj.GenerateResource.Cache
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.NhanVien.frmProfile.resources
+C:\Users\khong\Desktop\CNPM\QuanLyBanHangSieuThiMini\QuanLyBanHangSieuThiMini\obj\Debug\QuanLyBanHangSieuThiMini.Forms.NhanVien.frmChangePass.resources
